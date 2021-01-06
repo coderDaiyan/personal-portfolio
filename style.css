@@ -1,0 +1,112 @@
+body {
+  background-color: ghostwhite;
+}
+h1 {
+  font-size: 70px;
+  font-family: "Bebas Neue", cursive;
+  font-weight: lighter;
+  text-transform: uppercase;
+  list-style: 25px;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  line-height: 24px;
+  color: dimgray;
+}
+section {
+  height: 600px;
+}
+footer {
+  text-align: center;
+  color: dimgray;
+}
+
+.purple-highlight {
+  color: #363958;
+}
+.tomato-highlight {
+  color: #ff8367;
+}
+.link-btn {
+  color: white;
+  text-decoration: none;
+  background-color: tomato;
+  border-radius: 5px;
+  padding: 20px 30px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 65%;
+  margin-top: 50px;
+}
+#about {
+  margin-top: 50px;
+}
+
+.third-box {
+  background: white;
+  float: left;
+  box-shadow: 0px 0px 30px 0px #000;
+  color: #0e0f1a;
+  width: 29%;
+  margin: 0 1%;
+  padding: 15px;
+  border-radius: 10px;
+}
+.third-box img {
+  width: 100%;
+}
+.container {
+  background-image: url(resource/shapes/Group_33094_1.png);
+  background-position: center;
+  background-size: cover;
+  margin: 20px 100px;
+  padding: 30px 50px;
+  border-radius: 35px;
+  height: 225px;
+}
+.inquiry-text {
+  float: left;
+  width: 70%;
+}
+.inquiry-btn {
+  float: left;
+  width: 30%;
+}
+.inquiry-btn a {
+  margin-top: 70px;
+  display: inline-block;
+}
+.inquiry-text h2 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: lighter;
+  font-size: 70px;
+  margin-top: 58px;
+  color: white;
+}
+.connecting h4 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: lighter;
+  color: dimgrey;
+  text-align: center;
+}
+.connecting h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  color: #363958;
+}
+.connecting img {
+  width: 50px;
+  margin-left: 290px;
+  margin-right: 230px;
+  margin-top: -30px;
+}
