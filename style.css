@@ -37,6 +37,7 @@ footer {
   background-color: tomato;
   border-radius: 5px;
   padding: 20px 30px;
+  font-family: "Roboto", sans-serif;
 }
 .half-width {
   width: 40%;
